@@ -1,0 +1,11 @@
+{
+  "input_file": "",
+  "output_folder": "",
+  "save_mode": "Рядом с исходным",
+  "end_char": "\\r\\n",
+  "custom_end_char": "",
+  "filter_pattern": "",
+  "delimiter": "Точка с запятой (;)(Excel)",
+  "custom_delimiter": "",
+  "encoding": "UTF-8 с BOM (Excel)"
+}
